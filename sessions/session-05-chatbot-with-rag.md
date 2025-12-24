@@ -33,7 +33,7 @@ This completes the **RAG architecture**.
 
 ---
 
-![RAG Architecture](../images/rag-architecture.png)
+![RAG Architecture](../images/RAG-Arc.png)
 
 ---
 ## 3. RAG Architecture (Core Flow)
