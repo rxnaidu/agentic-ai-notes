@@ -33,6 +33,9 @@ This completes the **RAG architecture**.
 
 ---
 
+![RAG Architecture](../images/rag-architecture.png)
+
+---
 ## 3. RAG Architecture (Core Flow)
 
 **RAG = Retriever + Augmenter + Generator**
